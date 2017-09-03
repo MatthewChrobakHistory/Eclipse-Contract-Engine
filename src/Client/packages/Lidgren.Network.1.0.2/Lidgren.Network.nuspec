@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>Lidgren.Network</id>
+        <version>1.0.2</version>
+        <title>Lidgren.Network</title>
+        <authors>Michael Lidgren</authors>
+        <owners>Michael Lidgren</owners>
+        <projectUrl>https://github.com/lidgren/lidgren-network-gen3</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Lidgren.Network is a networking library for .net framework which uses a single udp socket to deliver a simple API for connecting a client to a server, reading and sending messages.</description>
+        <summary />
+        <tags>lidgren udp</tags>
+    </metadata>
+</package>

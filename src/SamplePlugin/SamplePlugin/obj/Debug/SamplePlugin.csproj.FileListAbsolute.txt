@@ -1,0 +1,7 @@
+C:\Users\Matthew\Copy\Eclipse\SamplePlugin\SamplePlugin\bin\Debug\SamplePlugin.dll
+C:\Users\Matthew\Copy\Eclipse\SamplePlugin\SamplePlugin\bin\Debug\SamplePlugin.pdb
+C:\Users\Matthew\Copy\Eclipse\SamplePlugin\SamplePlugin\bin\Debug\API.dll
+C:\Users\Matthew\Copy\Eclipse\SamplePlugin\SamplePlugin\bin\Debug\API.pdb
+C:\Users\Matthew\Copy\Eclipse\SamplePlugin\SamplePlugin\obj\Debug\SamplePlugin.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Copy\Eclipse\SamplePlugin\SamplePlugin\obj\Debug\SamplePlugin.dll
+C:\Users\Matthew\Copy\Eclipse\SamplePlugin\SamplePlugin\obj\Debug\SamplePlugin.pdb

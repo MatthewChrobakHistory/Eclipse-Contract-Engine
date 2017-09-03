@@ -1,0 +1,9 @@
+C:\Users\Matthew\Copy\Eclipse\API\API\bin\Debug\API.dll
+C:\Users\Matthew\Copy\Eclipse\API\API\bin\Debug\API.pdb
+C:\Users\Matthew\Copy\Eclipse\API\API\obj\Debug\API.dll
+C:\Users\Matthew\Copy\Eclipse\API\API\obj\Debug\API.pdb
+C:\Users\Matthew\Documents\BitBucket\Engine\API\API\bin\Debug\API.dll
+C:\Users\Matthew\Documents\BitBucket\Engine\API\API\bin\Debug\API.pdb
+C:\Users\Matthew\Documents\BitBucket\Engine\API\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Documents\BitBucket\Engine\API\API\obj\Debug\API.dll
+C:\Users\Matthew\Documents\BitBucket\Engine\API\API\obj\Debug\API.pdb
